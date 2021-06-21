@@ -1,0 +1,37 @@
+/* --------------- TAG SELECTOR -----------------  */
+
+  a:hover {
+    color: red;
+  }
+  body{
+    background-color: #fdfdfa;
+  }
+  img{
+    height: 250px;
+    border-radius: 100%;
+  }
+  h1 {
+    color: #7d5a50;
+  }
+  h3 {
+    color: #7d5a50;
+    margin-left:20px;
+  }
+
+/* --------------- CLASS SELECTOR -----------------  */
+  .dots{
+    border-style: none none dotted none;
+    border-width: 6px;
+    border-color: #FAF1E6;
+    width: 3%;
+  }
+
+  .solid{
+    border-style: solid;
+    background-color: black;
+    height: 0.25px;
+  }
+
+  .text_indent{
+    margin-left:25px;
+  }
